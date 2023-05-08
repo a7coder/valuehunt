@@ -86,7 +86,8 @@ createHtml(result,'danger')
      
 
     }
-  
+    window.scrollTo({left:0, top:0, behavior: "smooth"});
+    // console.log('working')
   }
 
 

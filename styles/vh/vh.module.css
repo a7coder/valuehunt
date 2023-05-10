@@ -87,6 +87,9 @@ label.brandId {
 }
 
 @media only screen and (min-width: 949px) and (max-width: 1024px) {
+  .html_form{
+    padding-top: 150px;
+  }
   .heading h1 {
     /* font-family: "Times New Roman", Times, serif; */
     font-size: 46px;
@@ -95,6 +98,9 @@ label.brandId {
 }
 
 @media only screen and (min-width: 799px) and (max-width: 948px) {
+  .html_form{
+    padding-top: 150px;
+  }
   .per_info {
     font-size: 22px;
   }
@@ -104,6 +110,9 @@ label.brandId {
 }
 
 @media only screen and (min-width: 569px) and (max-width: 798px) {
+  .html_form{
+    padding-top: 150px;
+  }
   .heading h1 {
    
     font-size: 44px;
@@ -140,6 +149,9 @@ label.brandId {
 }
 
 @media only screen and (min-width: 300px) and (max-width: 568px) {
+  .html_form{
+    padding-top: 150px;
+  }
   .heading h1 {
     font-family: sans-serif;
     font-size: 30px;
@@ -170,6 +182,7 @@ label.brandId {
   }
 
   .clothId {
+    
     font-family: sans-serif;
     margin: 12px 0px;
     padding: 12px 0px;
@@ -192,7 +205,7 @@ label.brandId {
 @media only screen and (min-width: 270px) and (max-width: 300px) {
   .html_form{
     padding: 0;
-    padding-top: 40px;
+    padding-top: 100px;
     font-family: sans-serif;
   }
   .heading h1 {
@@ -254,7 +267,7 @@ label.brandId {
 @media only screen and (min-width: 100px) and (max-width: 270px) {
   .html_form{
     padding: 0;
-    padding-top: 40px;
+    padding-top: 100px;
     margin: 0;
     
   }

@@ -28,7 +28,7 @@ export default function VhHandler(props) {
   useEffect(() => {
     // window is accessible here.
     if(ScrollChange){
-    window.scrollTo({left:0, top:590, behavior: "smooth"});}
+    window.scrollTo({left:0, top:550, behavior: "smooth"});}
   }, [results]);
 
   async function submitHandler(event) {
